@@ -4,7 +4,9 @@ Ladies and gentlemen, allow me to introduce you to one of the most brilliant min
 
 As someone who is constantly on the lookout for inspiring and informative content, I can confidently say that Andrew Huberman's podcast is a true gem. His ability to distill complex concepts into accessible and practical advice is truly remarkable, and his insights into the workings of the human brain are nothing short of fascinating.
 
-<img src="andrewhuberman.png" alt="Alternative text" width="250" height="150" />
+<p align="center">
+  <img src="andrewhuberman.png" alt="Alternative text" width="250" height="150" />
+</p>
 
 In fact, I was so inspired by the content of his podcast that I decided to take things a step further and create a wordcloud based on the most frequently occurring words in his episodes. By scraping the transcripts of his episodes and analyzing the data, I was able to gain a deeper understanding of the key topics and themes that Huberman explores in his work.
 
@@ -13,7 +15,7 @@ The resulting wordcloud was a stunning visual representation of the ideas and co
 ## get started
 1. Clone this repo in your local machine
 ```cmd
-git clone
+git clone https://github.com/ahmedbellaaj10/Andrew_Huberman_WordCloud.git
 ```
 2. Install the required packaged
 ```cmd
