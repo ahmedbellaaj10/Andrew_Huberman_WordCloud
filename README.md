@@ -21,8 +21,9 @@ git clone https://github.com/ahmedbellaaj10/Andrew_Huberman_WordCloud.git
 ```cmd
 pip install -r requirements.txt
 ```
-**3. Run the code by yourself :** You can either use the 'main.py' file or the notebook to try the code and apply some changes
-**4. Make an interpretation :** Take a closer look at the obtained word cloud and try to interpret it for themselves. What themes and ideas do you see emerging from the most frequently occurring words? How do these words relate to one another, and what insights can you gain from the appearance of such word so frequently in andrew's podcasts ?
+3. **Run the code by yourself :** You can either use the 'main.py' file or the notebook to try the code and apply some changes
+
+4. **Make an interpretation :** Take a closer look at the obtained word cloud and try to interpret it for themselves. What themes and ideas do you see emerging from the most frequently occurring words? How do these words relate to one another, and what insights can you gain from the appearance of such word so frequently in andrew's podcasts ?
 
 ### Contributions and contact
 If you have any ideas to improve this work, you can contact me via mail on ```ahmed-bellaaj@outlook.com``` or via [linkedIn](https://www.linkedin.com/in/ahmed-bellaaj/).
