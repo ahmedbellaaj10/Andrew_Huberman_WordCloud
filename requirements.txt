@@ -1,0 +1,7 @@
+pdfminer
+beautifulsoup4
+nltk
+matplotlib
+requests
+wordcloud
+tqdm
