@@ -13,16 +13,16 @@ In fact, I was so inspired by the content of his podcast that I decided to take 
 The resulting wordcloud was a stunning visual representation of the ideas and concepts that Huberman is most passionate about, and it is a testament to the power of his message. Whether you are a neuroscience enthusiast, a student of the human mind, or simply someone who is interested in optimizing your mental performance, I highly recommend checking out <a href="https://hubermanlab.com/">Andrew Huberman's podcast</a> and experiencing the power of his words for yourself. 
 
 ## get started
-1. Clone this repo in your local machine
+**1. Clone this repo in your local machine**
 ```cmd
 git clone https://github.com/ahmedbellaaj10/Andrew_Huberman_WordCloud.git
 ```
-2. Install the required packaged
+**2. Install the required packaged**
 ```cmd
 pip install -r requirements.txt
 ```
-3. Run the code by yourself : You can either use the 'main.py' file or the notebook to try the code and apply some changes
-4. Make an interpretation : Take a closer look at the obtained word cloud and try to interpret it for themselves. What themes and ideas do you see emerging from the most frequently occurring words? How do these words relate to one another, and what insights can you gain from the appearance of such word so frequently in andrew's podcasts ?
+**3. Run the code by yourself :** You can either use the 'main.py' file or the notebook to try the code and apply some changes
+**4. Make an interpretation :** Take a closer look at the obtained word cloud and try to interpret it for themselves. What themes and ideas do you see emerging from the most frequently occurring words? How do these words relate to one another, and what insights can you gain from the appearance of such word so frequently in andrew's podcasts ?
 
 ### Contributions and contact
 If you have any ideas to improve this work, you can contact me via mail on ```ahmed-bellaaj@outlook.com``` or via [linkedIn](https://www.linkedin.com/in/ahmed-bellaaj/).
